@@ -13,12 +13,12 @@
 
 <ul>
   <li>
-    <a href="./[Lab_01_Sentiment_Analysis.ipynb](https://github.com/Sandewni-Perera/Portfolio-for-LLM-practicals/blob/main/Lab-01-Sentiment-Analysis/sentiment%20analysis.ipynb)">
+    <a href="https://github.com/Sandewni-Perera/Portfolio-for-LLM-practicals/blob/main/Lab-01-Sentiment-Analysis/sentiment%20analysis.ipynb">
       View Jupyter Notebook
     </a>
   </li>
   <li>
-    <a href="./https://github.com/Sandewni-Perera/Portfolio-for-LLM-practicals/tree/main/Lab-01-Sentiment-Analysis/dataset">
+    <a href="https://github.com/Sandewni-Perera/Portfolio-for-LLM-practicals/tree/main/Lab-01-Sentiment-Analysis/dataset">
       View Dataset Folder
     </a>
   </li>
