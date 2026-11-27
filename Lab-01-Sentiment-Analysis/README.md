@@ -9,6 +9,20 @@
 </p>
 
 <hr>
+<h2>Practical Resources</h2>
+
+<ul>
+  <li>
+    <a href="./Lab_01_Sentiment_Analysis.ipynb">
+      View Jupyter Notebook
+    </a>
+  </li>
+  <li>
+    <a href="./dataset/">
+      View Dataset Folder
+    </a>
+  </li>
+</ul>
 <h2 align="left">1. Introduction</h2>
 This laboratory exercise examined the use of conventional machine learning methods for sentiment analysis through Python. The task included preprocessing text data, identifying significant features, and utilizing classification algorithms to assess if reviews conveyed positive or negative sentiments.
 The UCI Sentiment Labelled Sentences dataset was used for the experiments, comprising reviews collected from various sources.
