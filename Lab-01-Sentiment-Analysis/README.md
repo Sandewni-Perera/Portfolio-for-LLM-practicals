@@ -13,7 +13,7 @@
 
 <ul>
   <li>
-    <a href="./Lab_01_Sentiment_Analysis.ipynb">
+    <a href="./[Lab_01_Sentiment_Analysis.ipynb](https://github.com/Sandewni-Perera/Portfolio-for-LLM-practicals/blob/main/Lab-01-Sentiment-Analysis/sentiment%20analysis.ipynb)">
       View Jupyter Notebook
     </a>
   </li>
