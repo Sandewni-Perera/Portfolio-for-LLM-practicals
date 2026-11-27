@@ -18,7 +18,7 @@
     </a>
   </li>
   <li>
-    <a href="./dataset/">
+    <a href="./https://github.com/Sandewni-Perera/Portfolio-for-LLM-practicals/tree/main/Lab-01-Sentiment-Analysis/dataset">
       View Dataset Folder
     </a>
   </li>
